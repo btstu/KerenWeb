@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Raleway:wght@400;600;800;900&display=swap');
+
+.accueil__text{
+    display: flex;
+    padding:30px 150px;
+ 
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-weight: 400;
+    
+}
+
+
+.accueil__title{
+    text-align: center;
+    font-size: 40px;
+    color:  rgb(19, 19, 19);
+    font-weight: 800;
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.accueil{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.accueil__video{
+   padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.accueil__vidinfo{
+    display: flex;
+  justify-content: center;
+  box-shadow: 2px 5px 7px -7px rgba(0,0,0,0.90);
+  border-radius: 20px;
+  text-align: left;
+  margin-top: 20px;
+  height:100px;
+   padding-top: 50px;
+   width: 800px;
+   margin-left: 200px;
+
+
+}
+.accueil__vidinfo1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 16px;
+}
+.accueil__vidinfo2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 16px;
+}
